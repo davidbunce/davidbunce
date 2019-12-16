@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: David Bunce
+description: baptist pastor and theologian in Vienna, Austria
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://davidbunce.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -9,20 +9,28 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 navigation:
-  - title: Home
+  - title: Journal Scribblings
     url: /index.html
+  - title: Now
+    url: /now
   - title: About
     url: /about
+  - title: Academic
+    url: /academic
+  - title: Writing
+    url: /writing
+  - title: Elsewhere
+    url: /elsewhere
   - title: Contact
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
+  github: davidbunce
+  twitter: davidbunce
+  facebook: david.bunce
   email: brimaidesigns@gmail.com
 
 google_analytics: "UA-58263416-1"

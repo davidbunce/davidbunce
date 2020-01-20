@@ -14,7 +14,7 @@ paginate: 10
 navigation:
   - title: Journal Scribblings
     url: /index.html
-  - title: About
+  - title: About David
     url: /about
   - title: Academic
     url: /academic

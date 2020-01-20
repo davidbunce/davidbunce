@@ -14,18 +14,10 @@ paginate: 10
 navigation:
   - title: Journal Scribblings
     url: /index.html
-  - title: Now
-    url: /now
   - title: About
     url: /about
   - title: Academic
     url: /academic
-  - title: Writing
-    url: /writing
-  - title: Elsewhere
-    url: /elsewhere
-  - title: Contact
-    url: /contact
 
 social:
   github: davidbunce

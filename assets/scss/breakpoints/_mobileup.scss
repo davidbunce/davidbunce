@@ -177,9 +177,9 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
+	background-image: url('../img/donauhof_ceiling.jpg');
 	background-size: cover;
-	background-position: center center;
+	background-position: center bottom;
 	color: white;
 	padding: 0;
 	height: 3em;
@@ -200,7 +200,7 @@ HEADER STYLING
 		text-transform: uppercase;
 
 		a {
-			color: white;
+			color: #000;
 			text-decoration: none;
 		}
 	}

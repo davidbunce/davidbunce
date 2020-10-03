@@ -120,7 +120,7 @@ box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.23);
   padding-bottom: 1rem;
   background: #fff;
   border-bottom: 1px solid #eee;
-  z-index: 10;
+  z-index: 3;
   position: relative;
 
   -webkit-box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.53);
@@ -240,6 +240,7 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
+  z-index: 20;
   top:  .8rem;
   left: 1rem;
   display: flex;

@@ -1,7 +1,7 @@
 # Setup
 title:               David Bunce
 tagline:             'scribblings on pastoral and academic theology'
-description:         'I am a british pastor based in Austria. I blog about academic theology, church &amp; youth work and pastoral theology around issues of mental and emotional health. I tweet <a href="https://twitter.com/davidbunce" rel="_external">@davidbunce</a>'
+description:         'I am a british pastor based in Austria. I blog about academic theology, church &amp; youth work and pastoral theology around issues of mental and emotional health. I tweet <a href="https://twitter.com/davidbunce" rel="external" target="_blank">@davidbunce</a>'
 url:                 https://davidbunce.com
 baseurl:             ''
 paginate:            5

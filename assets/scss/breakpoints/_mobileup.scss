@@ -177,7 +177,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/donauhof_ceiling.jpg');
+	background-image: url('../img/donauhof_ceiling.jpg?cachebust');
 	background-size: cover;
 	background-position: center bottom;
 	color: white;

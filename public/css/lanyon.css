@@ -12,8 +12,13 @@
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/lanyon.
  */
-
-
+/*
+--umber: #6b6054ff;
+--artichoke: #929487ff;
+--ash-gray: #a1b0abff;
+--cambridge-blue: #c3dac3ff;
+--nyanza: #d5ecd4ff; 
+*/
 /*
  * Contents
  *
@@ -25,6 +30,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Customs
  */
 
 
@@ -41,11 +47,11 @@ body {
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -150,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
+  color: #333;
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
@@ -452,12 +458,12 @@ a.pagination-item:hover {
 .theme-base-09 .sidebar,
 .theme-base-09 .sidebar-toggle:active,
 .theme-base-09 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #d28445;
+  background-color: #A1B0AB;
 }
 .theme-base-09 .container a,
 .theme-base-09 .sidebar-toggle,
 .theme-base-09 .related-posts li a:hover {
-  color: #d28445;
+  color: #929487;
 }
 
 /* Yellow */
@@ -555,4 +561,38 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+
+/*
+ * Customs
+ *
+ */
+.introbox {
+  background: #D5ECD4;
+  display: flex;
+  align-items: flex-start;
+  padding: 30px;
+  margin-bottom: 60px;
+}
+
+.introbox h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.introbox p:last-of-type {
+  margin-bottom: 0;
+}
+
+.introbox img {
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  margin-right: 30px;
+}
+
+.recent-posts {
+  margin-bottom: 30px;
 }

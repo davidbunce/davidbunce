@@ -46,6 +46,11 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  background: url('/public/img/memphis-mini.png');
+  background-size: 200px 200px;
+}
+
 html {
   font-family: Georgia, "Times New Roman", serif;
 }
@@ -80,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   max-width: 28rem;
+  background: #fff;
 }
 @media (min-width: 38em) {
   .container {
@@ -92,6 +98,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.content {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  z-index: 2;
+  position: relative;
+  -webkit-box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.23);
+-moz-box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.23);
+box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.23);
+}
+
 
 /*
  * Masthead
@@ -102,8 +118,14 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  background: #fff;
   border-bottom: 1px solid #eee;
+  z-index: 10;
+  position: relative;
+
+  -webkit-box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.53);
+-moz-box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.53);
+box-shadow: 0px 3px 10px 3px rgba(244,244,244,0.53);
 }
 .masthead-title {
   margin-top: 0;
@@ -590,6 +612,7 @@ a.pagination-item:hover {
   border-radius: 50%;
   width: 150px;
   height: auto;
+  border: 5px solid #929487ff;
   margin-right: 30px;
 }
 

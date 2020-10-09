@@ -620,3 +620,29 @@ a.pagination-item:hover {
 .recent-posts {
   margin-bottom: 30px;
 }
+
+.year h2 {
+  margin-bottom: 0;
+}
+
+.number, .last-update {
+  color: #a1b0abff;
+  font-size: 0.8em;
+  font-variant: small-caps;
+}
+
+.star {
+  color: #c3dac3ff;
+}
+
+.about-images {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.about-images img {
+  width: 30%;
+  margin-bottom: 0;
+}

@@ -1,7 +1,28 @@
-lastupdate: October 2020
+lastupdate: January 2021
 list:
+  - year: "2021"
+    books: 
+      - title: Balm in Gilead - A Theological Dialogue with Marilynne Robinson
+        author: Timothy Larsen and Keith L. Johnson (eds)
+        link: https://www.ivpress.com/balm-in-gilead
+        star: no
+
+      - title: New Beginnings - A Pastorate Start Up Workbook
+        author: Roy M. Oswald
+        link: https://www.goodreads.com/book/show/24894467-new-beginnings
+        star: no
   - year: "2020"
     books:
+      - title: Gottes Wort als Wirklichkeit - Die Paulus-Rezeption des jungen Karl Barth (1906-1927)
+        author: Nina-Dorothee Mützlitz
+        link: https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/theologie-und-religion/systematische-theologie-religionsphilosophie/5689/gottes-wort-als-wirklichkeit
+        star: no
+
+      - title: Re-Thinking Children's Work in Churches - A Practical Guide
+        author: Sally Nash (ed)
+        link: https://wordery.com/re-thinking-childrens-work-in-churches-sally-nash-9781785921254?cTrk=MTgyMTk4OTY0fDVmZjE3ODEwNTYyM2I6MToxOjVmZjE3ODA4OGU1MDA5LjgzNDQxODAxOjRmNDg3Yjhi#
+        star: no
+
       - title: The Purpose of Power
         author: Alicia Garza
         link: https://www.penguin.co.uk/books/144/1442888/the-purpose-of-power/9780857527677.html

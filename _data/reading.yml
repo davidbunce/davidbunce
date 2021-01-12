@@ -2,6 +2,21 @@ lastupdate: January 2021
 list:
   - year: "2021"
     books: 
+      - title: The Possibility of Prayer
+        author: John Starke
+        link: https://www.ivpress.com/the-possibility-of-prayer
+        star: yes
+
+      - title: The Year of Our Lord 1943 - Christian Humanism in an Age of Crisis
+        author: Alan Jacobs
+        link: https://global.oup.com/academic/product/the-year-of-our-lord-1943-9780190864651?cc=at&lang=en&
+        star: no
+
+      - title: Piranesi
+        author: Susanna Clarke
+        link: https://www.randomhouse.de/Buch/Piranesi/Susanna-Clarke/Blessing/e575722.rhd
+        star: yes
+
       - title: Balm in Gilead - A Theological Dialogue with Marilynne Robinson
         author: Timothy Larsen and Keith L. Johnson (eds)
         link: https://www.ivpress.com/balm-in-gilead

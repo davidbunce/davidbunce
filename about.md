@@ -2,11 +2,6 @@
 layout: page
 title: About
 ---
-<div class="about-images">
-	<img src="/public/img/profile-david-bunce.jpg" />
-	<img src="/public/img/david-bunce-3.jpg" />
-	<img src="/public/img/david-bunce-1.jpg" />
-</div>
 
 Born and raised in the United Kingdom, I have lived in Austria since 2014, where I lived and worked for six years as a baptist pastor in Vienna. Since spring of 2021 I have been pastoring a [Baptist Church](http://www.baptisten-badischl.net/) in the spa town of Bad Ischl (the Salzkammergut, Austria's lake district).
 

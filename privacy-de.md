@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Datenschutzerklärung
 ---
 
-<h1 class="adsimple-111424746">Datenschutzerklärung</h1>
 <h2 id="datenschutz" class="adsimple-111424746">Datenschutz</h2>
 <p>Wir haben diese Datenschutzerklärung (Fassung 04.10.2020-111424746) verfasst, um Ihnen gemäß der Vorgaben der <a class="adsimple-111424746" href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&tid=111424746" target="_blank" rel="noopener noreferrer">Datenschutz-Grundverordnung (EU) 2016/679</a> zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.</p>
 <p>Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.</p>

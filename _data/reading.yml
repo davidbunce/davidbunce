@@ -1,7 +1,289 @@
-lastupdate: January 2021
+lastupdate: April 2022
 list:
+  - year: "2022"
+    books:
+      - title: The Night Circus
+        author: Erin Morgenstern
+        link: https://erinmorgenstern.com/writing/the-night-circus/
+        star: yes
+
+      - title: Redhead by the Side of the Road
+        author: Anne Tyler
+        link: https://www.waterstones.com/book/redhead-by-the-side-of-the-road/anne-tyler/9781529112450
+        star: no
+
+      - title: Hanging by a Thread
+        author: Samuel Wells
+        link: https://canterburypress.hymnsam.co.uk/books/9781848259072/hanging-by-a-thread
+        star: no
+
+      - title: Churches and the Crisis of Decline
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/churches-and-the-crisis-of-decline/409280
+        star: yes
+
+      - title: Talking Back to Purity Culture
+        author: Rachel Welcher
+        link: https://www.racheljwelcher.com/
+        star: no
+
+      - title: The Art of Gathering - how we meet and why it matters
+        author: Priya Parker
+        link: https://www.priyaparker.com/thebook
+        star: no
+
+      - title: The City of Brass
+        author: S. A. Chakraborty
+        link: https://www.sachakraborty.com/
+        star: yes
+
+      - title: Harlem Shuffle
+        author: Colson Whitehead
+        link: https://www.penguinrandomhouse.com/books/608669/harlem-shuffle-by-colson-whitehead/
+        star: no
+
+      - title: The Lord's Prayer
+        author: Clifton Black
+        link: https://www.wjkbooks.com/Products/0664234895/the-lords-prayer.aspx
+        star: no
+
+      - title: The Lord's Prayer
+        author: Wesley Hill
+        link: https://lexhampress.com/product/175815/the-lords-prayer-a-guide-to-praying-to-our-father
+        star: no
+
+      - title: The Lord and His Prayer
+        author: NT Wright
+        link: https://www.eerdmans.com/Products/7177/the-lord-and-his-prayer.aspx
+        star: no
+
+      - title: Amerikas Gotteskrieger
+        author: Annika Brockschmidt
+        link: https://www.goodreads.com/book/show/57555510-amerikas-gotteskrieger
+        star: yes
+
+      - title: The Sex Thing
+        author: Rachel Gardner
+        link: https://spckpublishing.co.uk/the-sex-thing
+        star: yes
+
+      - title: Walk Humbly
+        author: Samuel Wells
+        link: https://www.goodreads.com/book/show/40729040-walk-humbly
+        star: no
+
+      - title: How to Have an Enemy - Righteous Anger and the Work of Peace
+        author: Melissa Florer-Bixler
+        link: https://heraldpress.com/books/how-to-have-an-enemy/
+        star: no
+
+      - title: Fake Facts - Wie Verschwörungstheorien unser Denken bestimmen
+        author: Katharina Nocun, Pia Lamberty
+        link: https://www.thalia.at/shop/home/artikeldetails/A1056582503
+        star: no
+
+      - title: Messy Church 3
+        author: Lucy Moore
+        link: https://www.eden.co.uk/messy-church-3/
+        star: no 
+
+      - title: A Church Called Tov
+        author: Scot McKnight, Laura Barringer
+        link: https://www.churchcalledtov.org/
+        star: no 
+
+      - title: Entangled Life - How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures
+        author: Merlin Sheldrake
+        link: https://www.merlinsheldrake.com/entangled-life
+        star: yes 
+
+      - title: Worship For Everyone - Unlocking the Transforming Power of All-Age Worship
+        author: Nick & Becky Drake
+        link: https://spckpublishing.co.uk/worship-for-everyone
+        star: no 
+
+      - title: The Starless Sea
+        author: Erin Morgenstern
+        link: https://erinmorgenstern.com/the-starless-sea/
+        star: yes
+
   - year: "2021"
     books: 
+      - title: Stardust
+        author: Neil Gaiman
+        link: https://www.neilgaiman.com/works/Books/Stardust/
+        star: no
+
+      - title: Trans
+        author: Helen Joyce
+        link: https://www.simonandschuster.com/books/Trans/Helen-Joyce/9780861540495
+        star: no
+
+      - title: The Congregation in a Secular Age
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/the-congregation-in-a-secular-age/384001
+        star: yes
+
+      - title: God is not a White Man
+        author: Chine McDonald
+        link: https://www.hachette.co.uk/titles/chine-mcdonald/god-is-not-a-white-man/9781529349078/
+        star: no
+
+      - title: The Byzantine World War 
+        author: Nick Holmes
+        link: https://www.goodreads.com/book/show/45993934-the-byzantine-world-war
+        star: no
+
+      - title: Europe in Winter
+        author: Dave Hutchinson
+        link: https://www.simonandschuster.co.uk/books/Europe-in-Winter/Dave-Hutchinson/The-Fractured-Europe-Sequence/9781781084632
+        star: no
+
+      - title: Tangle's Game
+        author: Stewart Houston
+        link: https://www.goodreads.com/book/show/44280691-tangle-s-game
+        star: no
+
+      - title: Something's Not Right - Decoding the Hidden Tactics of Abuse
+        author: Wade Mullen
+        link: https://www.goodreads.com/book/show/54919266-something-s-not-right
+        star: no
+
+      - title: Servants - A Downstairs View of Twentieth-century Britain
+        author: Lucy Lethbridge
+        link: https://www.goodreads.com/book/show/18898452-servants
+        star: no
+
+      - title: Once Upon a River
+        author: Diane Setterfield
+        link: https://www.goodreads.com/book/show/36678391-once-upon-a-river
+        star: yes
+
+      - title: Uprooted - Recovering the Legacy of the Places We've Left Behind
+        author: Grace Olmstead
+        link: https://www.goodreads.com/book/show/54511905-uprooted
+        star: yes
+
+      - title: The Pastor in a Secular Age - Ministry to People Who No Longer Need a God
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/the-pastor-in-a-secular-age/383990
+        star: yes
+
+      - title: Jesus and John Wayne
+        author: Kristin Kobes Du Mez
+        link: https://kristindumez.com/books/jesus-and-john-wayne/
+        star: yes
+
+      - title: Das Gemeindekarussell
+        author: Gerti Strauch
+        link: https://www.scm-shop.de/das-gemeindekarussell.html
+        star: no
+
+      - title: The Gospel of Ruth - Loving God Enough to Break the Rules
+        author: Carolyn Custis James
+        link: https://lexhampress.com/product/148396/finding-god-in-the-margins-the-book-of-ruth
+        star: no
+
+      - title: No One is Talking About This
+        author: Patricia Lockwood
+        link: https://www.penguinrandomhouse.com/books/634158/no-one-is-talking-about-this-by-patricia-lockwood/
+        star: no
+
+      - title: The Gospel of Ruth - Loving God enough to break the rules
+        author: Carolyn Custis James
+        link: https://carolyncustisjames.com/the-gospel-of-ruth/
+        star: no
+
+      - title: Losing Our Minds. What Mental Illness Really Is – and What It Isn’t
+        author: Lucy Foulkes
+        link: https://www.penguin.co.uk/books/112/1120086/losing-our-minds/9781847926388.html
+        star: yes
+
+      - title: Fulfillment - Winning and Losing in One-Click America
+        author: Alec MacGillis
+        link: https://us.macmillan.com/books/9780374159276
+        star: yes
+
+      - title: The Midnight Library
+        author: Matt Haig
+        link: http://www.matthaig.com/books/midnight-library/
+        star: yes
+
+      - title: The Reluctant Empress
+        author: Brigitte Hamann, Ruth Hein (Translator)
+        link: https://www.ullstein-buchverlage.de/nc/buch/details/the-reluctant-empress-9783548354798.html
+        star: no
+
+      - title: The End of Youth Ministry? Why Parents Don't Really Care about Youth Groups and What Youth Workers Should Do about It
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/the-end-of-youth-ministry/397580
+        star: yes
+
+      - title: Bonhoeffer as Youth Worker - A Theological Vision for Discipleship and Life Together
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/bonhoeffer-as-youth-worker/344781
+        star: no
+
+      - title: Biblical Porn - Affect, Labor, and Pastor Mark Driscoll's Evangelical Empire
+        author: Jessica Johnson
+        link: https://www.dukeupress.edu/biblical-porn
+        star: no
+
+      - title: Will our children have faith?
+        author: John H. Westerholff III
+        link: https://www.churchpublishing.org/willourchildrenhavefaith
+        star: no
+
+      - title: Die Machtfalle - Machtmenschen, wie man ihnen begegnet
+        author: Martina & Volker Kessler
+        link: https://www.scm-shop.de/die-machtfalle-7487609.html
+        star: no
+
+      - title: Wholeheartedness - Busyness, Exhaustion, and Healing the Divided Self
+        author: Chuck DeGroat
+        link: https://chuckdegroat.net/leaving-egypt-finding-god-in-the-wilderness-places/
+        star: no
+
+      - title: Uprooted
+        author: Naomi Novik
+        link: https://www.naominovik.com/uprooted/
+        star: yes
+
+      - title: Karl Barth - ein Leben im Widerspruch
+        author: Christiane Tietz
+        link: https://www.chbeck.de/tietz-karl-barth/product/24060229
+        star: yes
+
+      - title: Systemische Seelsorge - Impulse der Familien- und Systemtherapie für die kirchliche Praxis
+        author: Christophy Morgenthaler
+        link: https://www.kohlhammer.de/wms/instances/KOB/appDE/Theologie/Praktische-Theologie-Kirche/Systemische-Seelsorge-978-3-17-036168-3
+        star: no
+
+      - title: Night Waking
+        author: Sarah Moss
+        link: https://granta.com/products/night-waking/
+        star: no
+
+      - title: Canoeing the Mountains
+        author: Tod Bolsinger
+        link: https://www.ivpress.com/canoeing-the-mountains
+        star: no
+
+      - title: Faith Formation in a secular age
+        author: Andrew Root
+        link: http://bakerpublishinggroup.com/books/faith-formation-in-a-secular-age/383960
+        star: yes
+
+      - title: From Isolation to Community
+        author: Jenni Osborn
+        link: https://www.amazon.co.uk/Isolation-Community-Youth-Covid-Beyond-ebook/dp/B08VNCSK4Z
+        star: no
+
+      - title: A Long Petal of the Sea
+        author: Isabel Allende
+        link: https://www.penguinrandomhouse.com/books/622081/a-long-petal-of-the-sea-by-isabel-allende/
+        star: yes
+
       - title: Managing Leadership Anxiety - Yours and Theirs
         author: Steve Cuss
         link: https://store.stevecusswords.com/

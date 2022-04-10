@@ -646,3 +646,15 @@ a.pagination-item:hover {
   width: 30%;
   margin-bottom: 0;
 }
+
+#writing-elsewhere {
+  
+}
+
+#writing-elsewhere h1 {
+  margin-bottom: 70px;
+}
+
+#writing-elsewhere h2 em {
+  color: #8f5536;
+}

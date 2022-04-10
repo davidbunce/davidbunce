@@ -5,7 +5,7 @@ title: Impressum
 
 # Impressum
 
-Owner of the website: David Bunce. Schulgasse 60/5, 1180 Wien, Austria.
+Owner of the website: David Bunce. Salzburger Straße 12/2, 4820 Bad Ischl, Austria.
 
 Email: &#100;&#97;&#118;&#105;&#100;&#106;&#119;&#98;&#117;&#110;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
 

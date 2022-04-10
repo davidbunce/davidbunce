@@ -2,7 +2,7 @@
 layout: page
 title: What I'm reading
 ---
-A list of books that I have read or re-read in the last few years. Books are listed in reverse chronological order. Inspired by [Chuck Grimmet](https://cagrimmett.com/reading/), who also provided some of the code on his Github page. I only list books that I am reading for work or pleasure (i.e. most academic books don't appear here). Books I particularly enjoyed for one reason or another are marked with a star (<span class="star">★</span>).
+A list of books that I have read or re-read in the last few years. Books are listed in reverse chronological order. Inspired by [Chuck Grimmet](https://cagrimmett.com/reading/), who also provided some of the code on his Github page. I only list books that I am reading for work or pleasure (i.e. most academic books and commentaries I read for sermon preparation don't appear here). Books I particularly enjoyed for one reason or another are marked with a star (<span class="star">★</span>).
 
 
 <div class="last-update">Last updated {{ site.data.reading.lastupdate }}</div>

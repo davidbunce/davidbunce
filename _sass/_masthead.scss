@@ -9,6 +9,15 @@
     margin-right: auto;
   }
 
+  img {
+    max-width: 100%;
+
+    @media (min-width: $on-tablet) {
+      height: 20em;
+      width: auto;
+    }
+  }
+
 }
 
 .site-masthead h1 {

@@ -20,6 +20,25 @@
   text-align: center;
 }
 
+.post blockquote {
+  position: relative;
+
+  &:before {
+    content: "“";
+    color: $brand-color;
+    font-size: 20em;
+    position: absolute;
+    top: -190px;
+    z-index: 10;
+    bottom: -10px;
+  }
+
+  p {
+    z-index: 100;
+    position: relative
+  }
+}
+
 .post p {
   text-align: justify;
   text-indent: 1.5em;
